@@ -1,0 +1,10 @@
+.box{
+    background-image: url("Contact images/Asset 1.png");
+    background-size: cover;
+    color: black;
+    box-shadow: black;
+    justify-content: center;
+    min-height: 85vh;
+    margin: 50px;
+    border-radius: 10px;
+}
