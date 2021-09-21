@@ -128,3 +128,7 @@ table {
 
 /*============================= 
 End of reset code */
+
+body {
+  background-color: blue;
+}
