@@ -1,10 +1,49 @@
-.box{
-    background-image: url("Contact images/Asset 1.png");
-    background-size: cover;
-    color: black;
-    box-shadow: black;
-    justify-content: center;
-    min-height: 85vh;
-    margin: 50px;
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #345B63;
+    font-size: 14px;
+    font-family: 'Dosis', sans-serif;
+}
+h1{
+    margin-bottom: 10px;
+}
+.container p{
+    margin-bottom: 50px;
+}
+.container{
+    width: 50%;
+    margin: 50px auto;
     border-radius: 10px;
+}
+.contact-box{
+    background: #66BFBF;
+    display: flex;
+}
+.contact-left{
+    flex-basis: 60%;
+    padding: 40px 60px;
+    background: whitesmoke;
+    color: black;
+}
+.contact-right{
+    flex-basis: 40%;
+    padding: 40px ;
+}
+.input-row{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.input-row .input-group{
+    flex-basis: 45%;
+}
+input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding-bottom: 5px;
 }
