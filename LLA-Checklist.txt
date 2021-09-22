@@ -42,9 +42,9 @@ Content
  x Clickable email
 Text life matters aka typography is real
  x Some words are bolded
- x Some words are italic
- x Some words have a different color
- x We aren't using a default font, cause it's not 2004
+ x Some words are italic:
+ x Some words have a different color: using a different theme so all text is=/= black
+ x We aren't using a default font, cause it's not 2004: we use Barlow
  x Contrast is not too low
  x Typographic hierachy is correct
  x Text has a clear intro, middle, conclusion
@@ -104,7 +104,7 @@ Perform all the tests
  x W3C validator: reinout tries figure out,
 Putting the antics back in semantics (but only for the html)
  x The html is semanticly correct: code grammar
- x Navigation is in a nav: okay 
+ x Navigation is in a nav: okay
  x Lists use list tags: x
  x H tags are used to signal importance: sure
  x No div is used where another element is available: section, blockquote, quote, img, container

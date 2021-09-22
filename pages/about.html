@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- head contains necessary elements for Bootstrap, custom css and FavIcon-->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,10 +17,12 @@
     <title>About</title>
     <link rel="shortcut icon" href="../img/Logo-Owl.png">
 </head>
-<body background="">
+
+<!-- Body contains all text block elements in containers and different sections with classes needed for layout -->
+<body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#" style="font-weight:bold;font-style:italic">Language-Learning-Academy</a>
+        <h3 class="navbar-brand">Language-Learning-Academy</h3>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -28,58 +31,41 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="/" style="font-weight:bold;">Home</a>
+                    <a class="nav-link" aria-current="page" href="./index.html"home/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="../pages/about.html" style="font-weight:bold;">About Us</a>
+                    <a class="nav-link active" href="about.html">About</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="../pages/about.html" style="font-weight:bold;">Contact Us</a>
+                    <a class="nav-link" href="./team.html">Team</a>
                 </li>
+
 
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                       data-bs-toggle="dropdown" aria-expanded="false" style="font-weight:bold;">Courses</a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Dutch</a></li>
-                        <li><a class="dropdown-item" href="#">Spanish</a></li>
-                        <li><a class="dropdown-item" href="#">English</a></li>
-                        <li><a class="dropdown-item" href="#">French</a></li>
-                        <li><a class="dropdown-item" href="#">Nepali</a></li>
-                    </ul>
+                    <a class="nav-link" href="../pages/courses.html">Courses</a>
+
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link" href="../contact.html">Contact</a>
                 </li>
 
             </ul>
-            <form class="d-flex">
-                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success" type="submit" style="font-weight:bold;">Search</button>
-            </form>
-
-            <!-- Buttons for sign up and Login -->
-
-            <div class="mx-2">
-                <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#LoginModal">Login</button>
-
-                <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#SignupModal">SignUp</button>
-            </div>
-
-
-
-
 
         </div>
     </div>
 </nav>
+<section class="pageText">
 <section class="aboutSection">
-<div class="container-fluid";>
+<div class="container">
     <div class="card-body"><h1 class="card-title"> <b>About Us</b></h1>
         <p class="card-text">We are the Language Learning Academy.
             We exist to help people to understand, read, write and speak better in all languages they wish to tackle.</p>
     </div>
 </div>
 </section>
-<section class="container-fluid">
+<section class="container">
     <div class="quoteBody">
         <blockquote class="blockquote mb-0">
             <p>Be the change you want to see in the world</p>
@@ -88,7 +74,7 @@
     </div>
 </section>
 
-<div class="container" >
+<div class="container">
     <div class="row g-0">
         <div class="col-md-4">
             <img src="../img/mission.jpg" class="img-fluid rounded-start" alt="image not available">
@@ -122,7 +108,7 @@
     </div>
 </div>
 </div>
-
+<section class="initiativesSection">
 <div class="container">
     <div class="row g-0">
         <div class="col-md-4">
@@ -140,8 +126,8 @@
 
     </div>
 </div>
-
-
+</section>
+</section>
 
 <footer class="container-fluid">
     <p class="float-end"><a href="#">Back to top</a></p>
