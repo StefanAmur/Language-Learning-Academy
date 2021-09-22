@@ -1,18 +1,49 @@
-.foot{
-    color:white;
-}
 
 .nav-item{
-    font-weight:bold;
-    font-style:italic;
+    font-weight:700;
+    font-size:large;
+    
+    text-align: center;
+    margin-left: 60px;
 }
+
+.navbar-brand{
+    font-size:large;  
+}
+
 .float-end{
     color:white;
 }
 .head{
-    color:blue;font-weight:bold ;
+    
+    font-weight:700;
+    color: black;
+    text-align:center;
+    margin-bottom:30px;
+      
 }
 
-.head1{
-    color: black;font-weight:bold ;
+.head1{ 
+    font-weight:700;
+    text-align:center;
+    margin-bottom:30px;
+}
+
+.head2{
+    color: black;
+    font-weight:700;
+    text-align:center;
+    margin-bottom:30px;
+}
+
+
+/* This is for footer  */
+
+
+.foot{
+    color:white;
+}
+
+.d-flex{
+    background-color: black;
 }
