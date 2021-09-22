@@ -1,3 +1,7 @@
+body {
+  font-family: 'Barlow', sans-serif;
+}
+
 .parallax-container {
   /* Fill the available space */
   height: 100vh;
