@@ -1,3 +1,13 @@
 body {
     font-family: 'Barlow', sans-serif;
+    margin: 0 20px;
+    }
+p { font-size: large;
+    font-weight: normal;
+}
+.aboutSect {
+    position: center;
+}
+.qsect {
+    text-align: right;
 }
