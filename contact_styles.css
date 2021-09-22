@@ -5,13 +5,17 @@
 body{
     background-color: #345B63;
     font-size: 14px;
-    font-family: 'Dosis', sans-serif;
+    font-family: 'barlow', sans-serif;
 }
 h1{
     margin-bottom: 10px;
+    font-size: 50px;
+    color: #f7f7f7;
 }
 .container p{
     margin-bottom: 50px;
+    font-size: 20px;
+    color: #f7f7f7;
 }
 .container{
     width: 50%;
@@ -25,12 +29,14 @@ h1{
 .contact-left{
     flex-basis: 60%;
     padding: 40px 60px;
-    background: whitesmoke;
+    background: white;
     color: black;
 }
 .contact-right{
     flex-basis: 40%;
-    padding: 40px ;
+    padding: 40px;
+    color: #f7f7f7;
+    font-size: 20px;
 }
 .input-row{
     display: flex;
@@ -46,4 +52,42 @@ input{
     border-bottom: 1px solid #ccc;
     outline: none;
     padding-bottom: 5px;
+}
+textarea{
+    width: 100%;
+    border:1px solid #ccc;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+}
+label{
+    margin-bottom: 6px;
+    display: block;
+    color: #1c00b5;
+}
+button{
+    background: #1c00b5;
+    width: 100px;
+    border: none;
+    outline: none;
+    color: #f7f7f7;
+    height: 35px;
+    border-radius: 30px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 15px 0px rgba(28,0,181,0.3);
+}
+.contact-left h3{
+    color: #1c00b5;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.contact-right h3{
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+tr td:first-child{
+    padding-right: 20px;
+}
+tr td{
+    padding-top: 20px;
 }
