@@ -78,7 +78,7 @@ Git(hub) is what you make it
  x All commits use a good comment:
  x A github description has been filled in
  x A github website has been filled in
-Readme but also writeme: has to be done, reinout & stefan -markdown-
+Readme but also writeme: has to be done, reinout & stefan -markdown- DONE
  x The readme says who made it
  x The readme says why they made it
  x The readme explains what this repo/project is
