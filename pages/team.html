@@ -18,7 +18,7 @@
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  <link rel="stylesheet" href="./teamStyle.css">
+  <link rel="stylesheet" href="../styles/teamStyle.css">
   
 
   <title>Meet Our Team</title>
@@ -27,7 +27,7 @@
 <!--Navigation Bar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
-      <a class="navbar-brand" href="#" style="font-weight:bold;font-style:italic">Language-Learning-Academy</a>
+      <h3 class="navbar-brand">Language-Learning-Academy</h3>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
           aria-label="Toggle navigation">
@@ -36,46 +36,28 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="/"
-                      style="font-weight:bold;text-align: center;">Home</a>
+                  <a class="nav-link" aria-current="page" href="../index.html">Home</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="/about.html" style="font-weight:bold;text-align: center;">About</a>
+                  <a class="nav-link" href="./about.html">About</a>
               </li>
 
               <li class="nav-item">
-                  <a class="nav-link" href="/team.html" style="font-weight:bold;text-align: center;">Team</a>
+                  <a class="nav-link  active" href="./team.html">Team</a>
               </li>
 
 
               <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                      data-bs-toggle="dropdown" aria-expanded="false"
-                      style="font-weight:bold;text-align: center;">Courses</a>
-                  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li><a class="dropdown-item" href="#">Dutch</a></li>
-                      <li><a class="dropdown-item" href="#">Spanish</a></li>
-                      <li><a class="dropdown-item" href="#">English</a></li>
-                      <li><a class="dropdown-item" href="#">French</a></li>
-                      <li><a class="dropdown-item" href="#">Nepali</a></li>
-                  </ul>
+                  <a class="nav-link" href="./courses.html">Courses</a>
+
               </li>
 
               <li class="nav-item">
-                  <a class="nav-link" href="/contact.html" style="font-weight:bold;text-align: center;">Contact
-                      Us</a>
+                  <a class="nav-link" href="../pages/contact.html">Contact</a>
               </li>
 
           </ul>
 
-
-          <!-- Buttons for sign up and Login -->
-
-          <div class="mx-2">
-              <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#loginModal">Login</button>
-
-              <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#SignupModal">SignUp</button>
-          </div>
       </div>
   </div>
 </nav>
@@ -107,7 +89,7 @@
         <div class="col-md-4">
         <div class="shadow-lg p-3 mb-5 bg-gray rounded">
           <div class="card">
-            <img src="./img/mayur.jpeg" class="card-img-top" height="450px" alt="A lady on the lake.">
+            <img src="../img/mayur.jpeg" class="card-img-top" height="450px" alt="A lady on the lake.">
             <div class="card-body">
               <h4 class="card-title">Neha</h4>
               <h6 class="card-subtitle text-muted">Teaching: English</h6>
@@ -127,7 +109,7 @@
         <div class="col-md-4">
         <div class="shadow-lg p-3 mb-5 bg-gray rounded">
           <div class="card">
-            <img src="./img/stefan.jpeg" class="card-img-top" height="450px" alt="...">
+            <img src="../img/stefan.jpeg" class="card-img-top" height="450px" alt="A man in the car.">
             <div class="card-body">
               <h4 class="card-title">Stefan</h4>
               <h6 class="card-subtitle text-muted">Teaching: Spanish</h6>
@@ -147,7 +129,7 @@
         <div class="col-md-4">
         <div class="shadow-lg p-3 mb-5 bg-gray rounded">
           <div class="card">
-            <img src="./img/reinout.jpg" class="card-img-top" height="450px" alt="...">
+            <img src="../img/reinout.jpg" class="card-img-top" height="450px" alt="A man wears a suit.">
             <div class="card-body">
               <h4 class="card-title">Reinout</h4>
               <h6 class="card-subtitle text-muted">Teaching: French</h6>
@@ -168,7 +150,7 @@
         <div class="col-md-4">
         <div class="shadow-lg p-3 mb-5 bg-gray rounded">
           <div class="card">
-            <img src="./img/binayak.jpeg" class="card-img-top" height="450px" alt="...">
+            <img src="../img/binayak.jpeg" class="card-img-top" height="450px" alt="A man sit under the sunset.">
             <div class="card-body">
               <h4 class="card-title">Binayak</h4>
               <h6 class="card-subtitle text-muted">Teaching: Nepali</h6>
@@ -187,7 +169,7 @@
         <div class="col-md-4">
         <div class="shadow-lg p-3 mb-5 bg-gray rounded">
           <div class="card">
-            <img src="./img/Xiaoqi.jpg" class="card-img-top" height="450px" alt="...">
+            <img src="../img/Xiaoqi.jpg" class="card-img-top" height="450px" alt="A lady sit in a room.">
             <div class="card-body">
               <h4 class="card-title">Xiaoqi</h4>
               <h6 class="card-subtitle text-muted">Teaching: Dutch</h6>
@@ -208,10 +190,9 @@
 
 
 
-  <footer class="container">
-    <p class="float-end"><a href="#">Back to top</a></p>
-    <p>© 2021–2022 Language-Learning-academy, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
-</footer>
+  <footer class="d-flex justify-content-between py-2 my-2 border-top">
+      <p class="foot">© 2021-22 Language-Learning-Academy,inc. All rights reserved...</p>
+  </footer>
 
 
 </body>

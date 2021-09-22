@@ -1,8 +1,16 @@
-*{
-    margin: 0;
-    padding: 0;
-
+.nav-item{
+  font-weight:700;
+  font-size:large;
+  
+  text-align: center;
+  margin-left: 60px;
 }
+
+.navbar-brand{
+  font-size:large;  
+}
+
+
 header {
     min-height: 20vh;
     width: 90%;
@@ -69,4 +77,13 @@ p{
   }
   q {
     font-style: italic;
+}
+
+
+.foot{
+  color:white;
+}
+
+.d-flex{
+  background-color: black;
 }
