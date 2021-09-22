@@ -6,22 +6,29 @@
 header {
     min-height: 20vh;
     width: 90%;
-   /*background-image:url(img/peo.jpeg);*/
     margin:auto;
     background-position: center;
     background-size: cover;
     position: relative;
   }
 body{
-    background-color: #b7aec7;
+    background-color: #F5E6BA;
 }
-.container-h1{
-    font-family: 'Poppins', sans-serif;
+.diplay-4{
+    font-family:'Poppins', sans-serif;
     font-size: 50px;
-    color:rgb(63, 46, 3);
+    color: #6E79A8;
+    margin-top: 20px;  
+}
+h4{
+  color: #6E79A8;
+}
+p{
+  color: #6E79A8;
 }
 .card-body {
-  background-color: #9a9cdf;
+  background-color: #d8d0b7 ;
+
   }
 .fa {
     padding: 10px;
