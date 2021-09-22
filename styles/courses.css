@@ -1,0 +1,66 @@
+.parallax-container {
+  /* Fill the available space */
+  height: 100vh;
+
+  /* Make the children of the element closer to the viewport */
+  perspective: 2px;
+
+  /* Hide the overflow */
+  overflow-x: hidden;
+}
+
+/* General styling  */
+.parallax-section {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.static-section {
+  background-color: #f7f7f7;
+}
+
+.parallax::after {
+  /* Position the pseudo-element to fill the parent */
+  content: '';
+  position: absolute;
+  top: -300px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  /* Scale the image to full */
+  background-size: cover;
+
+  /* Move the element back then scale the element, it helps to appears more slowly */
+  transform: translateZ(-1px) scale(1.7);
+
+  /* Set the parallax section before the other elements. */
+  z-index: -1;
+}
+
+/* Different background images */
+.parallax-one::after {
+  background-image: url('../img/spain.jpg');
+}
+
+.parallax-two::after {
+  background-image: url('../img/england.jpg');
+}
+
+.parallax-three::after {
+  background-image: url('../img/nepal.jpg');
+}
+
+.parallax-four::after {
+  background-image: url('../img/holland.jpg');
+}
+
+.parallax-five::after {
+  background-image: url('../img/france.jpg');
+}
