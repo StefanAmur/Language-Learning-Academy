@@ -56,6 +56,6 @@
   q {
     font-style: italic;
 }
-.padding-container{
-
+.card-body {
+background-color: rgb(194, 185, 185);
 }
