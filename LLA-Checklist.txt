@@ -79,16 +79,16 @@ Git(hub) is what you make it
  x A github description has been filled in
  x A github website has been filled in
 Readme but also writeme: has to be done, reinout & stefan -markdown- DONE
- x The readme says who made it
- x The readme says why they made it
- x The readme explains what this repo/project is
- x The readme links to a preview (screenshot)
- x The readme contains a nice image
- x The readme has a markdown title
- x The readme is divided in sections
- x The readme is fun to read
- x The readme looks good
- x The readme is clear, even for someone that has no idea what is going on
+ v The readme says who made it
+ v The readme says why they made it
+ v The readme explains what this repo/project is
+ x The readme links to a preview (screenshot) : Stefan
+ v The readme contains a nice image
+ x The readme has a markdown title: Stefan
+ v The readme is divided in sections
+ v The readme is fun to read
+ v The readme looks good
+ v The readme is clear, even for someone that has no idea what is going on
 I'm So Meta, Even This Acronym
  x Keywords meta tag --> google
  x Description meta tag
@@ -101,10 +101,10 @@ Data is the new oil
  x Implements (Google) analytics HOW TIM?
 Perform all the tests
  x Lighthouse
- x W3C validator: reinout tries figure out
+ x W3C validator: reinout tries figure out,
 Putting the antics back in semantics (but only for the html)
  x The html is semanticly correct: code grammar
- x Navigation is in a nav: okay
+ x Navigation is in a nav: okay 
  x Lists use list tags: x
  x H tags are used to signal importance: sure
  x No div is used where another element is available: section, blockquote, quote, img, container
