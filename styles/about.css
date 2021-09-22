@@ -1,13 +1,21 @@
 body {
     font-family: 'Barlow', sans-serif;
-    margin: 0 20px;
-    }
+    background-color: #FFEDED;
+        }
 p { font-size: large;
     font-weight: normal;
+    color: #B39494
+
 }
-.aboutSect {
-    position: center;
+.aboutSection {
+    text-align: center;
+    margin-bottom: 20px;
+
 }
-.qsect {
-    text-align: right;
+.quoteBody {
+    text-align: center;
+    margin-bottom: 30px;
+}
+h1,h2 {
+    color: #82B390
 }
