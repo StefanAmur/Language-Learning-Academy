@@ -21,7 +21,7 @@ section::before{
     height: 100%;
     background: #66BFBF;
 }
-.container{
+.wrapper{
     position: relative;
     min-width: 1100px;
     min-height: 550px;
@@ -29,7 +29,7 @@ section::before{
     z-index: 1000;
     background: #f7f7f7;
 }
-.container .contactInfo{
+.wrapper .contactInfo{
     position:absolute;
     top: 40px;
     width: 350px;
@@ -43,7 +43,7 @@ section::before{
     justify-content: space-between;
     box-shadow: 0 20px 25px rgba(0,0,0,0.15);
 }
-.container .contactForm{
+.wrapper .contactForm{
     position: absolute;
     padding: 70px 50px;
     padding-left: 250px;
