@@ -39,3 +39,17 @@ body {
 .d-flex{
     background-color: black;
 }
+
+.brain{
+    font-weight:700;
+    font-size:large;
+
+    text-align: center;
+    margin-left: 60px;
+}
+
+.lang{
+    font-size:x-large;
+    font-weight: 700;
+}
+
