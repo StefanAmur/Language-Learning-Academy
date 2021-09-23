@@ -14,6 +14,16 @@
 .navbar-brand{
     font-size:large;
 }
+/*header*/
+.header-box{
+    background: #345B63;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    color: #f7f7f7;
+    padding-top: 100px;
+}
+
 /* main section*/
 section{
     display: flex;
