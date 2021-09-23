@@ -1,11 +1,16 @@
 # Language-Learning-Academy
+
+To those who it may concern 
+
+This README is about the following website: https://stefanamur.github.io/Language-Learning-Academy/
+
 Reinout De Bleser made this.
 
 We promise the readme is fun to read. We have a coding joke at the end. 
 
 We simply made the README to explain our project. 
 
-Our project is simple, for our course in BeCode we had to make our first business website in team. 
+##Our project is simple, for our course in BeCode we had to make our first business website in team. 
 The website is for a school for language learning and contains:
 -an Index page 
 -a Courses page, 
@@ -13,7 +18,7 @@ The website is for a school for language learning and contains:
 -a Contact page 
 and a Team page. 
 
-The repo on GitHub contains: 
+##The repo on GitHub contains: 
 -img folder
 -styles folder
 -pages folder
@@ -22,9 +27,11 @@ FFA-checklist: mainly to review progress and divide tasks.
 
 Our teammembers consist of Stefan, Neha, Xiaoqi, Binayak and Reinout
 
-Preview: 
+Preview:
 
-<ScreenShot
+![img_2.png](Preview.png)
+
+
 
                         .="=.
                       _/.-.-.\_     _

@@ -1,32 +1,25 @@
 body {
-    font-family: 'Barlow', sans-serif;
-    background-color: #FFF6DB;
+    height: 100%;
+    margin: 0;
+    font: 400 18px/1.8 'Barlow', sans-serif;
+    color: #191919;
+    background-color: #f7f7f7;
         }
-p { font-size: 16px;
-    font-weight: normal;
-    color: #6E79A8;
-}
+
 .aboutSection {
     text-align: center;
     margin-bottom: 20px;
 
 }
 .quoteBody {
-    text-align: center;
+    text-align: right;
     margin-bottom: 30px;
+    font-style: italic;
 
 }
-h1,h2 {
-    color: #6E79A8;
+.textSection{
+    margin-bottom: 30px;
 }
-.initiativesSection {
-    margin-bottom: 20px;
-}
-
-.pageText{
-    background-color: #F5E6BA;
-}
-
 .nav-item{
     font-weight:700;
     font-size:large;

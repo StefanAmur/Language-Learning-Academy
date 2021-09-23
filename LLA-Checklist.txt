@@ -1,14 +1,14 @@
 The mission
     v Invent a company together and think of 1 page per person in your team, that the company needs.
     v Divide those pages amongst the group and each person designs one page.
-    . Once you are all finished, join those pages together with some form of navigation
+    v Once you are all finished, join those pages together with some form of navigation
     v Publish the result with a github repository (call it name-of-your-business)
     x ASK TIM Make sure everyone in the group has a fork of the website
-    x Explain your company in the readme of the repo and put a link to the company 'website' in there
-    x Add a parallax image header Example
-    x Add a carousel on one page
-    x Make your website responsive
-    x Mention your phone number somewhere on the onepager, in the a tag add tel in the href.
+    v Explain your company in the readme of the repo and put a link to the company 'website' in there
+    v Add a parallax image header Example
+    v Add a carousel on one page
+    v Make your website responsive
+    v Mention your phone number somewhere on the one of the pages, in the a tag add tel in the href.
 
 Have a contact form, add a fake email in the mailto property.
 You can use bootstrap or SASS, but you are not required to use it. However use of these tools will give you extra credit in the evaluation.
@@ -27,46 +27,46 @@ Doing the evaluation
 Requirements
 
 Perfection is not a detail
- x All buttons and links work
- x All elements work and are complete (menu, lists, images, ...)
- x Everything on the page has a function, a reason to be there
- x No dead links
- x English and dutch are not mixed
- x No spelling errors
- x No grammar errors
- x The website is deployed somewhere
- x Everything is relevant (no image of a barber on the website of a baker)
+ v All buttons and links work
+ v All elements work and are complete (menu, lists, images, ...)
+ v Everything on the page has a function, a reason to be there
+ v No dead links
+ v English and dutch are not mixed
+ xx No spelling errors
+ xx No grammar errors TBU
+ v The website is deployed somewhere
+ v Everything is relevant (no image of a barber on the website of a baker)
 Content
- x Openinghours (if needed)
- x Address (if needed)
- x Clickable email
+ v Openinghours (if needed)
+ v Address (if needed)
+ v Clickable email
 Text life matters aka typography is real
- x Some words are bolded
- x Some words are italic:
- x Some words have a different color: using a different theme so all text is=/= black
- x We aren't using a default font, cause it's not 2004: we use Barlow
- x Contrast is not too low
- x Typographic hierachy is correct
+ v Some words are bolded
+ v Some words are italic:
+ x Some words have a different color: using a different theme so all text is =/= black
+ v We aren't using a default font, cause it's not 2004: we use Barlow
+ v Contrast is not too low
+ v Typographic hierachy is correct
  x Text has a clear intro, middle, conclusion
  x Intro, middle, conclusion is style correctly
- x Headline font is a headline font
- x Body text font is a body text font
- x The text on the page has a good flow
+ v Headline font is a headline font
+ v Body text font is a body text font
+ v The text on the page has a good flow
 Style
- x Black is almost black but not #000
- x White is almost white but not #fff ---> #F7f7f7
- x The website is not an ugly color mess
- x The styling is consistent
- x It is not four totally different pages thrown together
- x Everything works even if you are colorblind: lighthouse solves this maybe
+ v Black is almost black but not #000
+ v White is almost white but not #fff ---> #F7f7f7
+ v The website is not an ugly color mess
+ v The styling is consistent
+ v It is not four totally different pages thrown together
+ v Everything works even if you are colorblind: lighthouse solves this maybe
 Not everyone has free 4G aka speed matters
- x Pictures are not too heavy: no 4K
- x Pictures are not pixelated: >128p
-A company wants to be found/SEO: TAGS! check lighthouse to imporve SEO
- x All the keywords this company wants to be found on are on the page
- x Page has an H1 tag
- x Page has keyword meta tags : content discription what they contain
- x Page has a title with the keywords in: page name super important
+ v Pictures are not too heavy: no 4K
+ v Pictures are not pixelated: >128p
+A company wants to be found/SEO: TAGS! check lighthouse to improve SEO
+ v All the keywords this company wants to be found on are on the page
+ v Page has an H1 tag
+ v Page has keyword meta tags : content discription what they contain
+ v Page has a title with the keywords in: page name super important
  x Page loads fast: looking good
 Keep your workspace clean
  x No unused files in the repo

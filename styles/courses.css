@@ -1,3 +1,4 @@
+@import url(./index.css);
 
 body,
 html {
@@ -13,7 +14,8 @@ html {
 .bgimg-2,
 .bgimg-3,
 .bgimg-4,
-.bgimg-5 {
+.bgimg-5,
+.bgimg-6 {
   position: relative;
   min-height: 60%;
   opacity: 0.65;
@@ -43,6 +45,10 @@ html {
 
 .bgimg-5 {
   background-image: url('../img/france.jpg');
+}
+
+.bgimg-6 {
+  background-image: url('../img/germany.jpg');
 }
 
 /* Turn off parallax scrolling for tablets and phones. But maybe later? */
