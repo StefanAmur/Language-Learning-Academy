@@ -1,0 +1,89 @@
+.nav-item{
+  font-weight:700;
+  font-size:large;
+  
+  text-align: center;
+  margin-left: 60px;
+}
+
+.navbar-brand{
+  font-size:large;  
+}
+
+
+header {
+    min-height: 20vh;
+    width: 90%;
+    margin:auto;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+body{
+    background-color: #F5E6BA;
+}
+.diplay-4{
+    font-family:'Poppins', sans-serif;
+    font-size: 50px;
+    color: #6E79A8;
+    margin-top: 20px;  
+}
+h4{
+  color: #6E79A8;
+}
+p{
+  color: #6E79A8;
+}
+.card-body {
+  background-color: #d8d0b7 ;
+
+  }
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+    border-radius: 30%
+  }
+    .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  q {
+    font-style: italic;
+}
+
+
+.foot{
+  color:white;
+}
+
+.d-flex{
+  background-color: black;
+}
