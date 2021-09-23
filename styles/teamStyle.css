@@ -1,3 +1,4 @@
+
 .nav-item{
   font-weight:700;
   font-size:large;
@@ -20,10 +21,10 @@ header {
     position: relative;
   }
 body{
-    background-color: #F5E6BA;
+    font: 400 18px/1.8 'Barlow', sans-serif;
+    background-color: #f7f7f7
 }
 .diplay-4{
-    font-family:'Poppins', sans-serif;
     font-size: 50px;
     color: #6E79A8;
     margin-top: 20px;  
@@ -35,7 +36,7 @@ p{
   color: #6E79A8;
 }
 .card-body {
-  background-color: #d8d0b7 ;
+  background-color: #e1dfda ;
 
   }
 .fa {
