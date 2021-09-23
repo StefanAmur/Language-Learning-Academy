@@ -12,8 +12,9 @@ body {
 
 }
 .quoteBody {
-    text-align: center;
+    text-align: right;
     margin-bottom: 30px;
+    font-style: italic;
 
 }
 .textSection{

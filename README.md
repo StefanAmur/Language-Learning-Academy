@@ -1,4 +1,9 @@
 # Language-Learning-Academy
+
+To those who it may concern 
+
+This README is about the following website: https://stefanamur.github.io/Language-Learning-Academy/
+
 Reinout De Bleser made this.
 
 We promise the readme is fun to read. We have a coding joke at the end. 
@@ -22,9 +27,11 @@ FFA-checklist: mainly to review progress and divide tasks.
 
 Our teammembers consist of Stefan, Neha, Xiaoqi, Binayak and Reinout
 
-Preview: 
+Preview:
 
-<ScreenShot
+![img_2.png](Preview.png)
+
+
 
                         .="=.
                       _/.-.-.\_     _
