@@ -26,3 +26,23 @@ h1,h2 {
 .pageText{
     background-color: #F5E6BA;
 }
+
+.nav-item{
+    font-weight:700;
+    font-size:large;
+
+    text-align: center;
+    margin-left: 60px;
+}
+
+.navbar-brand{
+    font-size:large;
+}
+
+.foot{
+    color:white;
+}
+
+.d-flex{
+    background-color: black;
+}
