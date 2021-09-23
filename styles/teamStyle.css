@@ -3,18 +3,18 @@ body{
   background-color: #f7f7f7;
   color: #191919;
 }
-.nav-item{
-  font-weight:700;
-  font-size:large;
-  
-  text-align: center;
-  margin-left: 60px;
+.brain{
+    font-weight:700;
+    font-size:large;
+    
+    text-align: center;
+    margin-left: 60px;
 }
 
-.navbar-brand{
-  font-size:large;  
+.lang{
+    font-size:x-large; 
+    font-weight: 700; 
 }
-
 
 .header {
     min-height: 20vh;
