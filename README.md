@@ -1,33 +1,49 @@
+
 # Language-Learning-Academy
 
-To those who it may concern 
+>To those who it may concern 
+>
+>This README is about the following website: >https://stefanamur.github.io/Language-Learning-Academy/
 
-This README is about the following website: https://stefanamur.github.io/Language-Learning-Academy/
+**Reinout De Bleser made this.**
 
-Reinout De Bleser made this.
+>We promise the readme is fun to read. We have a coding joke at the end. 
+>
+>We simply made the README to explain our project. 
 
-We promise the readme is fun to read. We have a coding joke at the end. 
+## Project
 
-We simply made the README to explain our project. 
+>Our project is simple, for our course in BeCode we had to make our first >business website in a team. 
 
-##Our project is simple, for our course in BeCode we had to make our first business website in team. 
-The website is for a school for language learning and contains:
--an Index page 
--a Courses page, 
--an About page, 
--a Contact page 
-and a Team page. 
+>The website is for a school for language learning and contains:
+>
+>-an Index page   
+>-a Courses page,   
+>-an About page,   
+>-a Contact page   
+>and a Team page.   
 
-##The repo on GitHub contains: 
--img folder
--styles folder
--pages folder
-index.html
-FFA-checklist: mainly to review progress and divide tasks. 
 
-Our teammembers consist of Stefan, Neha, Xiaoqi, Binayak and Reinout
+## The repo on GitHub contains: 
 
-Preview:
+>-img folder  
+>-styles folder  
+>-pages folder  
+>index.html  
+>FFA-Checklist.txt  
+>Preview.png  
+>styles.css  
+
+Purpose of FFA-checklist: mainly to review progress and divide tasks. 
+
+>Our teammembers consist of: 
+>Stefan, 
+>Neha, 
+>Xiaoqi, 
+>Binayak 
+>and Reinout
+
+## Preview:
 
 ![img_2.png](Preview.png)
 
@@ -46,12 +62,12 @@ Preview:
     `"""""""""`  ,--`,--'\/\    /
                  '-- "--'  '--'
 
-The readme is fun to read! 
+>The readme is **fun** to read! 
 
-The readme looks good!
+>The readme looks **good**!
 
 The readme is clear even though the monkey has no idea what is going on.
 
-Joke:
-How many programmers does it take to change a light bulb?
-None – It’s a hardware problem
+>### Joke:
+>How many programmers does it take to change a light bulb?
+>None – It’s a hardware problem
