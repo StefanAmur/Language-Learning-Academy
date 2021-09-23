@@ -12,7 +12,7 @@
 }
 
 
-header {
+.header {
     min-height: 20vh;
     width: 90%;
     margin:auto;
