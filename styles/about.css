@@ -1,11 +1,10 @@
 body {
     font-family: 'Barlow', sans-serif;
-    background-color: #FFEDED;
+    background-color: #FFF6DB;
         }
-p { font-size: large;
+p { font-size: 16px;
     font-weight: normal;
-    color: #B39494
-
+    color: #6E79A8;
 }
 .aboutSection {
     text-align: center;
@@ -15,7 +14,35 @@ p { font-size: large;
 .quoteBody {
     text-align: center;
     margin-bottom: 30px;
+
 }
 h1,h2 {
-    color: #82B390
+    color: #6E79A8;
+}
+.initiativesSection {
+    margin-bottom: 20px;
+}
+
+.pageText{
+    background-color: #F5E6BA;
+}
+
+.nav-item{
+    font-weight:700;
+    font-size:large;
+
+    text-align: center;
+    margin-left: 60px;
+}
+
+.navbar-brand{
+    font-size:large;
+}
+
+.foot{
+    color:white;
+}
+
+.d-flex{
+    background-color: black;
 }
