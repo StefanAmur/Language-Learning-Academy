@@ -1,4 +1,8 @@
-
+body{
+  font: 400 18px/1.8 'Barlow', sans-serif;
+  background-color: #f7f7f7;
+  color: #191919;
+}
 .nav-item{
   font-weight:700;
   font-size:large;
@@ -20,13 +24,12 @@
     background-size: cover;
     position: relative;
   }
-body{
-    font: 400 18px/1.8 'Barlow', sans-serif;
-    background-color: #f7f7f7;
-    color: #191919;
+h1{
+  font:'Barlow', sans-serif;
 }
 .diplay-4{ 
     margin-top: 20px;  
+    
 }
 
 .card-body {
