@@ -1,20 +1,11 @@
+@import url(./index.css);
+
 body{
   font: 400 18px/1.8 'Barlow', sans-serif;
   background-color: #f7f7f7;
   color: #191919;
 }
-.brain{
-    font-weight:700;
-    font-size:large;
-    
-    text-align: center;
-    margin-left: 60px;
-}
 
-.lang{
-    font-size:x-large; 
-    font-weight: 700; 
-}
 
 .header {
     min-height: 20vh;
@@ -79,11 +70,3 @@ h1{
     font-style: italic;
 }
 
-
-.foot{
-  color:white;
-}
-
-.d-flex{
-  background-color: black;
-}
