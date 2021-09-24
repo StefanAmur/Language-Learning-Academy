@@ -1,4 +1,6 @@
-body {
+@import url(./index.css);
+
+html {
     height: 100%;
     margin: 0;
     font: 400 18px/1.8 'Barlow', sans-serif;
@@ -7,8 +9,9 @@ body {
         }
 
 .aboutSection {
+    margin-top: 30px;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 
 }
 .quoteBody {
@@ -20,7 +23,7 @@ body {
 .textSection{
     margin-bottom: 30px;
 }
-.nav-item{
+/*.nav-item{
     font-weight:700;
     font-size:large;
 
@@ -43,7 +46,6 @@ body {
 .brain{
     font-weight:700;
     font-size:large;
-
     text-align: center;
     margin-left: 60px;
 }
@@ -51,5 +53,5 @@ body {
 .lang{
     font-size:x-large;
     font-weight: 700;
-}
+}*/
 
