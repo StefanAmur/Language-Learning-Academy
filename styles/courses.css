@@ -64,6 +64,13 @@ html {
   background-image: url('../img/holland.jpg');
 }
 
+@media screen and (max-width: 480px) {
+  .bgimg-3 {
+    opacity: 0.75;
+    background-image: url('../img/holland-960.jpg');
+  }
+}
+
 .bgimg-5 {
   background-image: url('../img/france.jpg');
 }
@@ -77,6 +84,13 @@ html {
 
 .bgimg-6 {
   background-image: url('../img/germany.jpg');
+}
+
+@media screen and (max-width: 480px) {
+  .bgimg-6 {
+    opacity: 0.75;
+    background-image: url('../img/germany-960.jpg');
+  }
 }
 
 /* Turn off parallax scrolling for tablets and phones. But maybe later? */
@@ -106,6 +120,7 @@ html {
 
 .country-flag {
   width: 100px;
+  height: 100px;
 }
 
 .hr-line {
