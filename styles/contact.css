@@ -69,7 +69,9 @@ section{
 .wrapper .contactInfo .info li span:nth-child(1){
     width: 40px;
     min-width: 40px;
-
+}
+.spanColor{
+    color: #191919;
 }
 .wrapper .contactInfo .info li span:nth-child(1) svg{
     max-width: 100%;
