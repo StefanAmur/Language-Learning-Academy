@@ -16,7 +16,7 @@
 body{
     font-family: 'Barlow', sans-serif;
     
-    color: #191919;
+    color: #f7f7f7;
 }
 
 
@@ -27,6 +27,9 @@ body{
 
 .foot{
     color:white;
+    font-size: 18px;
+    text-align: center;
+    margin:0 auto;
 }
 
 .d-flex{
@@ -63,18 +66,20 @@ body{
     margin-bottom:30px;
 }
 
-.flag{
+/* .flag{
 
     background-color: gray;
-}  
+}   */
 
-.cover{
+/* .cover{
 border: 2px solid black;
-}
+} */
 
 .city{
 text-align: center;
 font-weight: 700;
+font-size: 18px;
+color:black;
 
 }
 .final{
@@ -82,17 +87,23 @@ font-weight: 700;
     margin-bottom: 40px;
     font-weight:500;
     border: 2px solid black;
-    background-color: darkgray;
+    color:black;
+    text-align: center;
 }
 
 .us{
     font-weight: 500;
-   
-    text-shadow: dimgray;
+    color:black;
     font-size: 30px;
      
 }
 
 .para{
     font-weight:500;
+    color:black;
+}
+.academy{
+
+    margin-top: 20px;  
+    
 }
