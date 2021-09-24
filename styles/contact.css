@@ -14,7 +14,7 @@
     text-align: center;
     flex-direction: column;
     color: #f7f7f7;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 /* main section*/
@@ -22,7 +22,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 70vh;
     background: #345B63;
 }
 
