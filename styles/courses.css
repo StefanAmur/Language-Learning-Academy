@@ -65,7 +65,7 @@ html {
 }
 
 @media screen and (max-width: 480px) {
-  .bgimg-3 {
+  .bgimg-4 {
     opacity: 0.75;
     background-image: url('../img/holland-960.jpg');
   }
