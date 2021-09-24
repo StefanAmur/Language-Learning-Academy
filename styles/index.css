@@ -30,6 +30,7 @@ body{
     font-size: 18px;
     text-align: center;
     margin:0 auto;
+    
 }
 
 .d-flex{
@@ -86,9 +87,10 @@ color:black;
     margin-top: 20px;
     margin-bottom: 40px;
     font-weight:500;
-    border: 2px solid black;
     color:black;
-    text-align: center;
+
+    font-size: 18px;
+
 }
 
 .us{
@@ -101,6 +103,7 @@ color:black;
 .para{
     font-weight:500;
     color:black;
+    font-size: 18px;
 }
 .academy{
 
