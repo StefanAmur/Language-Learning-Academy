@@ -5,15 +5,7 @@
     font-family: 'barlow', sans-serif;
 }
 /*nav bar*/
-.nav-item{
-    font-weight:700;
-    font-size:large;
-    text-align: center;
-    margin-left: 60px;
-}
-.navbar-brand{
-    font-size:large;
-}
+@import url(./index.css);
 /*header*/
 .header-box{
     background: #345B63;
@@ -76,10 +68,15 @@ section{
 .wrapper .contactInfo .info li span:nth-child(1){
     width: 40px;
     min-width: 40px;
+
 }
 .wrapper .contactInfo .info li span:nth-child(1) svg{
     max-width: 100%;
     filter: invert();
+}
+.wrapper .contactInfo .info li a{
+    text-decoration: none;
+    color: #f7f7f7;
 }
 .wrapper .contactInfo .info li span:nth-child(2){
     color: #f7f7f7;
@@ -218,6 +215,7 @@ transform: translateY(-35px);
 @media (max-width: 600px){
     .contactForm{
         padding: 25px;
+        flex-direction: column;
     }
     .contactInfo{
         padding: 25px;
